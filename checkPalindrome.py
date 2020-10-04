@@ -1,3 +1,5 @@
+# Given the string, check if it is a palindrome.
+
 def checkPalindrome(inputString):
     Length = len(inputString)
     The_Middle = int(len(inputString)/2)
